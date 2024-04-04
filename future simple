@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="files/icon.png" type="image/x-icon">
+    <title>Future Simple</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background: linear-gradient(to right, #ffffff, #4682B4); /* Градієнт від білого до блакитного */
+            color: #fff;
+            padding: 1em;
+            text-align: center;
+        }
+
+        header h1 {
+            color: #ffffff;
+            font-family: Alice;
+            font-size: 50px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+            text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        }
+
+        nav a {
+            padding: 10px 75px 10px 75px;
+            margin: 4px;
+            text-decoration: none;
+            background-color: #B0C4DE;
+            border-radius: 20px;
+            box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+            color: black;
+        }
+
+        nav a:hover {
+            background-color: #B0C4DE;
+            box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.75);
+        }
+
+        footer {
+            background: linear-gradient(to right, #4CAF50, #2196F3);
+            padding: 5px;
+        }
+
+
+        section {
+            max-width: 1400px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            font-size: 18px;
+        }
+
+        .information {
+            border: 4px dashed #4682B4;
+            background-color: #ffffff;
+            font-weight: bold;
+            padding:10px;
+            border-radius: 20px;
+        }
+
+        span {
+            font-weight: bold;
+            color: #87CEFA;
+        }
+
+        li::before {
+            font-weight: bold;
+        }
+
+        table, tr, td {
+            border: 2px solid black;
+            border-collapse: collapse;
+            padding: 5px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1><b>МАЙБУТНІ ЧАСИ В АНГЛІЙСЬКІЙ МОВІ</b></h1>
+        <nav>
+            <a href="main.html" target="_blank">FUTURE SIMPLE</a>
+            <a href="dotichna.html" target="_blank">FUTURE CONTINIOUS</a>
+            <a href="test.html" target="_blank">FUTURE PERFECT SIMPLE</a>
+            <a href="#contacts">FUTURE PERFECT CONTINIOUS</a>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h1>Future Simple</h1>
+            <p class="information"><i>Future Simple <span> використовується для описання поодиноких, повторюваних</span>, або послідовних дій у майбутньому.</i></p>
+            <p>Future Simple використовується для вираження припущень або здогадок про майбутні дії або події.</p>
+            <p>Обіцянки, побоювання, сподівання;Прогнози на майбутнє;Спонтанні рішення.</p>
+            <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fenglishstudyhere.com%2Ftenses%2Ffuture-simple-tense-review%2F&psig=AOvVaw2lqSgAgz3-wn_x3A-NB4sk&ust=1712227674740000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDy4aTvpYUDFQAAAAAdAAAAABAo"><br>
+            <p>Маркери часу:</p>
+          </p>tomorrow – завтра;</p>
+          </p>the day after tomorrow – післязавтра;</p>
+          </p>tonight – сьогодні ввечері;</p>
+          </p>soon – скоро;</p>
+          </p>as soon as – як тільки;</p>
+          </p>later – пізніше;</p>
+          </p>next week – наступного тижня;</p>
+          </p>next month – наступного місяця;</p>
+          </p>next year – в наступному році, наступного року;</p>
+          </p>next century – в наступному сторіччі;</p>
+          </p>in a week – через тиждень;</p>
+          </p>in a month – через місяць;</p>
+          </p>in three year – через три роки;</p>
+          </p>in two days – через два дні;</p>
+          </p>in one of these days – в один з цих днів;</p>
+          <p><span> Стверджувальне речення<span> </p>
+          <p>Future Simple (Future Indefinite) утворюється за допомогою допоміжного дієслова will або shall та форми простого інфінітиву без частки to активного або пасивного стану. Дієслово to be (am, is, are) в простому майбутньому часі використовується в формі will be (рідше shall be). <p>
+          <p><span> Will</span> в сучасній англійській мові вживається для всіх осіб однини та множини.<p>
+          <p><span>Shall</span> використовується з першою особою I, We, але його використання зараз вважається застарілим.<p>
+          <p><span>Приклади:<p>
+           <p>My husband<span> will buy </span>this ring for me. – Мій чоловік придбає для мене цю каблучку.<p>
+                      <p>We <span>will find </span>your key tomorrow. – Ми знайдемо твій ключ завтра.<p>
+                        <p>The project<span> will be </span>presented next Tuesday. – Проект буде представлений наступного вівторка.<p>
+
+                    <p><span> Заперечне речення </p>
+                      <p>В заперечних реченнях в Future Simple додається заперечна частка not після допоміжного дієслова <span>will або shall</span>. Загальний порядок слів у реченні не змінюється.<p>
+                        <p><span>Приклади:<p>
+                        <p>I <span>will not go</span> for a walk tomorrow. – Я не піду завтра на прогулянку.<p>
+                          <p>My husband <span>will not buy </span>this ring for me. – Мій чоловік не придбає для мене цю каблучку.
+<p>
+                            <p>We <span>will not find </span>your key tomorrow. – Ми не знайдемо твій ключ завтра.<p>
+                              <p><span>will not = won’t<p>
+                                <p>She <span>won’t go</span> to the cinema. - Вона не піде у кіно.<p>
+                                   <p><span> Питальне речення </p>
+                                <p>Утворення загального питання в Future Simple відбувається шляхом винесення допоміжного дієслова<span> will або shall</span> на початок речення перед підметом.
+
+<p>
+   <p><span>Приклади:<p>
+                                  <p><span>Will I go </span>for a walk tomorrow? – Я піду завтра на прогулянку?<p>
+                                    <p><span>Will my husband buy</span> this ring for me? – Мій чоловік придбає для мене цю каблучку?
+<p>
+                                      <p><span>Will we find </span>your key tomorrow? – Ми знайдемо твій ключ завтра?<p>
+                                        <p><p>
+   </section>
+     
+    
+</body>
+</html>

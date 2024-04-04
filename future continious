@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="files/icon.png" type="image/x-icon">
+    <title>Future Continious</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background: linear-gradient(to right, #ffffff, 	#4682B4); /* Градієнт від білого до блакитного */
+            color: #fff;
+            padding: 1em;
+            text-align: center;
+        }
+
+        header h1 {
+            color:  #ffffff;
+            font-family: Alice;
+            font-size: 50px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+            text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        }
+
+        nav a {
+            padding: 10px 75px 10px 75px;
+            margin: 4px;
+            text-decoration: none;
+            background-color:#B0C4DE;
+            border-radius: 20px;
+            box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+            color: black;
+        }
+
+        nav a:hover {
+            background-color: #B0C4DE;
+            box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.75);
+        }
+
+        footer {
+            background: linear-gradient(to right, #4CAF50, #2196F3);
+            padding: 5px;
+        }
+
+
+        section {
+            max-width: 1400px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color:   #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            font-size: 18px;
+        }
+
+        .information {
+            border: 4px dashed #4682B4;
+            background-color: #ffffff;
+            font-weight: bold;
+            padding:10px;
+            border-radius: 20px;
+        }
+
+        span {
+            font-weight: bold;
+            color: #87CEFA;
+        }
+
+        li::before {
+            font-weight: bold;
+        }
+
+        table, tr, td {
+            border: 2px solid black;
+            border-collapse: collapse;
+            padding: 5px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1><b>FUTURE CONTINIOUS</b></h1>
+        <nav>
+            <a href="main.html" target="_blank">Future Simple</a>
+            <a href="dotichna.html" target="_blank">Future Continious</a>
+            <a href="described_and_inscribed.html" target="_blank">	Future Perfect Simple</a>
+            <a href="test.html" target="_blank">Future Perfect Continious</a>
+        </nav>
+    </header>
+
+    <main>
+       <section>
+         <h1>Future Continious</h1>
+         <p class="information"><i>Future Continious <span> використовується для опису дій, що будуть відбуватися в конкретний, точно відомий момент або ж проміжок часу в майбутньому. </i></p>
+         <p>Future Continuous також використовується для описання кількох тривалих дій в одному реченні, що будуть відбуватися одночасно в майбутньому.</p>
+         <p>Future Continuous використовується для описання події, що неодмінно відбудеться в найближчому майбутньому, так як вона була спланована або неминуча через певні обставини.</p>
+          <p>Future Continuous може бути використаним, щоб повідомити про заплановані дії, що повинні відбутися найближчим часом, однак в сучасній англійській для цього частіше використовується час Present Continuous </p>
+         <p>Future Continuous може використовуватися для того, щоб задати ввічливе питання про чиїсь дії або плани на найближче майбутнє.<p>
+       <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Ffuture-continuous-tense-rules-and-examples-englishteachoo--683139837245443388%2F&psig=AOvVaw1jRb81iEaYR6uGKEH3KhIO&ust=1712232069804000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjPptf_pYUDFQAAAAAdAAAAABAY"><br>
+          <p>Маркери часу:</p>
+          <p>at 5 o'clock – о 5-ій годині
+          <p>at that moment – в той момент
+          <p>this time tomorrow – в цей час завтра
+          <p>the same time next week – в цей самий час наступного тижня
+          <p>meanwhile – тим часом, в той час, коли
+          <p>meantime – тим часом, між тим
+          <p>in the meantime –  тим часом, між тим, в той же час
+          <p>from two till three –  з другої до третьої
+          <p>from Monday till Friday – з понеділка по п'ятницю
+          <p>from 10 a.m. to 11 a.m. tomorrow – з 10-ї до 11-ї ранку завтра
+          <p>from 6 p.m. to 9 p.m. the day after tomorrow – з 6-ї до 9-ї вечора післязавтра
+          <p>during this time – протягом цього часу
+          <p>during the morning – вранці, весь ранок
+          <p>during the day – протягом дня
+          <p>during the evening – ввечері, весь вечір
+          <p>during the afternoon – пообід, протягом другої половини дня
+          <p>for 2 hours – протягом двох годин
+          <p>for a week – за тиждень, протягом одного тижня
+          <p>for months – за декілька місяців, протягом декількох місяців
+          <p>all day long – цілий день, весь день
+          <p>all night – всю ніч, цілу ніч
+          <p>all the time – весь час
+          <p>the whole evening – весь вечір
+          <p>the whole year – весь рік, цілий рік
+       <p><span> Стверджувальне речення<span> </p>
+       <p><span>Future Continuous (Future Progressive)</span> утворюється за допомогою допоміжного дієслова <span>will (рідше shall для I та We) та форми тривалого інфінітиву (be + дієслово з закінченням -ing).</span><p>
+
+         <p><span>Will </span>в сучасній англійській мові вживається для всіх осіб однини та множини.<p>
+           <p><span>Shall</span> використовується з першою особою I, We, але його використання зараз вважається застарілим.<p>
+             <p>В сучасній англійській для всіх осіб будь-якого числа використовується тільки will й це не вважається помилкою. Але shall ще можна зустріти в газетах, старих або офіційних текстах, в художній літературі.<p>
+       <p><span>Приклади:<p>
+          <p>I <span>shall be working</span> here. – Я буду тут працювати. <p>
+             <p>He <span>will be drinking</span> tea with us. – Він буде пити з нами чай. <p>
+                <p>We <span>will be dancing</span> all night. – Ми будемо танцювати всю ніч. <p>
+                 <p><span> Заперечне речення </p>
+                   <p>Заперечення в Future Continuous утворюється за допомогою додавання частки not після дієслова will або shall.<p>
+                     <p><span>Приклади:<p>
+                       <p>I<span> will not be working</span> here. – Я не буду працювати тут.<p>
+                         <p>He <span>will not be drinking </span>tea with us. – Він не буде пити з нами чай.<p>
+                           <p>We<span> will not be dancing </span>all night. – Ми не будемо танцювати всю ніч.<p>
+
+                                <p><span> Питальне речення </p>
+                             <p>Загальне питання в Future Continuous утворюється за допомогою <span>винесення </span> допоміжного дієслова <span>will (або shall)  </span>на початок речення перед підметом.<p>
+       <p><span>Приклади:<p>
+         <p><span>Will I be working</span> here? – Я буду тут працювати? <p>
+           <p><span>Will he be drinking</span> tea with us? – Він буде пити з нами чай?  <p>
+             <p><span>Will we be dancing </span>all night? – Ми будемо танцювати всю ніч?  <p>
+
+       </section>
+
+
+       </body>
+       </html>
